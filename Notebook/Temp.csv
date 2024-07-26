@@ -1,19 +1,19 @@
 ,BrandStores,POS,StoreLocation,Status,DateOpened,PurpleKey,Region,TSM
-1,Hardware Sugar,Hardware Sugar Makati,,,2022-07-04,M9ZK6IU,,
-2,Hardware Sugar,Hardware Sugar Makati,,,2022-07-04,MV4UO0X,,
-82,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MBL3GTJ,NCR East,Charm Moltio
-84,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MS2WCNL,NCR East,Charm Moltio
-254,JSL,SHAR Novaliches,Standalone,POS Operational,2024-06-26,M0C5496,NCR North,Sander Maghirang
-256,JSL,SHAR Novaliches,Standalone,For Opening,2024-06-26,MDZSR97,NCR North,Sander Maghirang
-723,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MDGYHQJ,NCR South,Klein Justine Tamayo
-725,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MU82X9Z,NCR South,Klein Justine Tamayo
-738,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MJX19GT,NCR South,Klein Justine Tamayo
-739,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MAGJHBV,NCR South,Klein Justine Tamayo
-740,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MRGP0WQ,NCR South,Klein Justine Tamayo
-741,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MTI6M5S,NCR South,Klein Justine Tamayo
-742,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MTH0X9L,NCR South,Klein Justine Tamayo
-743,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MDO3KI4,NCR South,Klein Justine Tamayo
-804,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MGP2AQI,NCR North,Ben Antonio Lacsamana
-805,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MN3GL66,NCR North 2,Ben Antonio Lacsamana
-811,Home Along,Home Along Malanday,Standalone,POS Operational,2022-07-11,MNBW4RZ,NCR North,Ben Antonio Lacsamana
-812,Home Along,Home Along Malanday,,,2022-07-11,MURFAIV,NCR North,Ben Antonio Lacsamana
+8,Hardware Sugar,Hardware Sugar Makati,,,2022-07-04,M9ZK6IU,,
+9,Hardware Sugar,Hardware Sugar Makati,,,2022-07-04,MV4UO0X,,
+89,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MS2WCNL,NCR East,Charm Moltio
+90,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MBL3GTJ,NCR East,Charm Moltio
+264,JSL,SHAR Novaliches,Standalone,For Opening,2024-06-26,MDZSR97,NCR North,Sander Maghirang
+266,JSL,SHAR Novaliches,Standalone,POS Operational,2024-06-26,M0C5496,NCR North,Sander Maghirang
+734,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MDGYHQJ,NCR South,Klein Justine Tamayo
+735,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MU82X9Z,NCR South,Klein Justine Tamayo
+748,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MTH0X9L,NCR South,Klein Justine Tamayo
+749,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MRGP0WQ,NCR South,Klein Justine Tamayo
+750,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MDO3KI4,NCR South,Klein Justine Tamayo
+751,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MJX19GT,NCR South,Klein Justine Tamayo
+752,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MTI6M5S,NCR South,Klein Justine Tamayo
+753,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MAGJHBV,NCR South,Klein Justine Tamayo
+812,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MGP2AQI,NCR North,Ben Antonio Lacsamana
+815,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MN3GL66,NCR North 2,Ben Antonio Lacsamana
+821,Home Along,Home Along Malanday,,,2022-07-11,MURFAIV,NCR North,Ben Antonio Lacsamana
+822,Home Along,Home Along Malanday,Standalone,POS Operational,2022-07-11,MNBW4RZ,NCR North,Ben Antonio Lacsamana
