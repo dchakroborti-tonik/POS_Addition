@@ -1,35 +1,35 @@
 ,BrandStores,POS,StoreLocation,Status,DateOpened,PurpleKey,Region,TSM
 7,Hardware Sugar,Hardware Sugar Makati,,,2022-07-04,MV4UO0X,,
 8,Hardware Sugar,Hardware Sugar Makati,,,2022-07-04,M9ZK6IU,,
-88,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MS2WCNL,NCR East,Charm Moltio
-89,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MBL3GTJ,NCR East,Charm Moltio
-137,MemoXpress,Jr Mx Waltermart Balayan Batangas,Waltermart Balayan,For Opening,2024-08-19,M4XIFGS,South Luzon,Penfrancia Ayo
-160,Power Mac Center,Power Mac Center Manila Bay,Ayala Mall Manila Bay,For Opening,2024-04-05,MBT0D94,NCR South 2,Grace Belarmino
+88,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MBL3GTJ,NCR East,Charm Moltio
+90,Home Along,Home Along Tumana,Standalone,POS Operational,2022-07-01,MS2WCNL,NCR East,Charm Moltio
+138,MemoXpress,Jr Mx Waltermart Balayan Batangas,Waltermart Balayan,For Opening,2024-08-19,M4XIFGS,South Luzon,Penfrancia Ayo
 161,Power Mac Center,Power Mac Center Festival Supermall,Festival Supermall,For Opening,2024-04-05,MDK6BIO,NCR South 2,Grace Belarmino
-182,Power Mac,Power Mac Center Festival Supermall,Festival Supermall,For Opening,2024-08-16,MUVWA6D,NCR South 2,Grace Belarmino
+162,Power Mac Center,Power Mac Center Manila Bay,Ayala Mall Manila Bay,For Opening,2024-04-05,MBT0D94,NCR South 2,Grace Belarmino
 183,Power Mac,Power Mac Center Manila Bay,Ayala Mall Manila Bay,For Opening,2024-08-16,MBJZIEO,NCR South 2,Grace Belarmino
-237,Power Mac Center,Power Mac Center Cloverleaf,Ayala Mall Cloverleaf,For Opening,2024-04-05,M35T4ES,NCR North,Sander Maghirang
+184,Power Mac,Power Mac Center Festival Supermall,Festival Supermall,For Opening,2024-08-16,MUVWA6D,NCR South 2,Grace Belarmino
 238,Power Mac Center,Power Mac Center Robinsons Magnolia,Robinsons Magnolia,For Opening,2024-04-05,M4YVNIC,NCR North,Sander Maghirang
-279,JSL,SHAR Novaliches,Standalone,For Opening,2024-06-26,MDZSR97,NCR North,Sander Maghirang
-282,JSL,SHAR Novaliches,Standalone,POS Operational,2024-06-26,M0C5496,NCR North,Sander Maghirang
-286,Power Mac,Power Mac Center Cloverleaf,Ayala Mall Cloverleaf,POS Operational,2024-08-10,MOKFHAI,NCR North,Sander Maghirang
-287,Power Mac,Power Mac Center Robinsons Magnolia,Robinsons Magnolia,For Opening,2024-08-16,MW8XV42,NCR North,Sander Maghirang
+239,Power Mac Center,Power Mac Center Cloverleaf,Ayala Mall Cloverleaf,For Opening,2024-04-05,M35T4ES,NCR North,Sander Maghirang
+284,JSL,SHAR Novaliches,Standalone,POS Operational,2024-06-26,M0C5496,NCR North,Sander Maghirang
+286,JSL,SHAR Novaliches,Standalone,For Opening,2024-06-26,MDZSR97,NCR North,Sander Maghirang
+287,Power Mac,Power Mac Center Cloverleaf,Ayala Mall Cloverleaf,POS Operational,2024-08-10,MOKFHAI,NCR North,Sander Maghirang
+288,Power Mac,Power Mac Center Robinsons Magnolia,Robinsons Magnolia,For Opening,2024-08-16,MW8XV42,NCR North,Sander Maghirang
 309,MemoXpress,Jr Mx Waltermart Balayan Batangas,Waltermart Balayan,For Opening,2024-04-15,MREQTLV,South Luzon 3,Jan jan Dela Cruz
-530,Rulls,Techlife Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,MG63AK2,South Luzon 1 (A),Aubrey Lalong Isip
-531,Rulls,Techlife Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,MY295QO,South Luzon 1 (A),Aubrey Lalong Isip
+531,Rulls,Tecno Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,M3L1GS0,South Luzon 1 (A),Aubrey Lalong Isip
 532,Rulls,Tecno Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,MVNGWHA,South Luzon 1 (A),Aubrey Lalong Isip
-533,Rulls,Tecno Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,M3L1GS0,South Luzon 1 (A),Aubrey Lalong Isip
-749,Power Mac Center,Power Mac Center Greenbelt,Ayala Mall Circuit,For Opening,2024-04-05,MYXTEZN,NCR South 1,Klein Justine Tamayo
-792,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MU82X9Z,NCR South,Klein Justine Tamayo
-795,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MDGYHQJ,NCR South,Klein Justine Tamayo
-807,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MJX19GT,NCR South,Klein Justine Tamayo
-808,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MTI6M5S,NCR South,Klein Justine Tamayo
-809,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MAGJHBV,NCR South,Klein Justine Tamayo
-810,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MDO3KI4,NCR South,Klein Justine Tamayo
-811,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MTH0X9L,NCR South,Klein Justine Tamayo
-812,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MRGP0WQ,NCR South,Klein Justine Tamayo
-813,Power Mac,Power Mac Center Greenbelt,Ayala Mall Circuit,For Opening,2024-08-16,M9T2W5I,NCR South 1,Klein Justine Tamayo
-871,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MN3GL66,NCR North 2,Ben Antonio Lacsamana
-874,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MGP2AQI,NCR North,Ben Antonio Lacsamana
-881,Home Along,Home Along Malanday,Standalone,POS Operational,2022-07-11,MNBW4RZ,NCR North,Ben Antonio Lacsamana
-882,Home Along,Home Along Malanday,,,2022-07-11,MURFAIV,NCR North,Ben Antonio Lacsamana
+533,Rulls,Techlife Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,MG63AK2,South Luzon 1 (A),Aubrey Lalong Isip
+534,Rulls,Techlife Robinsons Galleria South,Robinsons Galleria South,For Opening,2024-07-26,MY295QO,South Luzon 1 (A),Aubrey Lalong Isip
+750,Power Mac Center,Power Mac Center Greenbelt,Ayala Mall Circuit,For Opening,2024-04-05,MYXTEZN,NCR South 1,Klein Justine Tamayo
+795,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MU82X9Z,NCR South,Klein Justine Tamayo
+796,Home Along,Home Along Muntinlupa,Standalone,POS Operational,2022-03-26,MDGYHQJ,NCR South,Klein Justine Tamayo
+808,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MRGP0WQ,NCR South,Klein Justine Tamayo
+809,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MTH0X9L,NCR South,Klein Justine Tamayo
+810,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MAGJHBV,NCR South,Klein Justine Tamayo
+811,Home Along,Home Along Waterfun Taguig,Standalone,POS Operational,2022-07-01,MJX19GT,NCR South,Klein Justine Tamayo
+812,Home Along,Home Along Tunasan,Standalone,POS Operational,2022-07-01,MTI6M5S,NCR South,Klein Justine Tamayo
+813,Home Along,Home Along Puregold Taguig,Standalone,POS Operational,2022-07-01,MDO3KI4,NCR South,Klein Justine Tamayo
+814,Power Mac,Power Mac Center Greenbelt,Ayala Mall Circuit,For Opening,2024-08-16,M9T2W5I,NCR South 1,Klein Justine Tamayo
+875,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MN3GL66,NCR North 2,Ben Antonio Lacsamana
+876,Home Along,Home Along - Mayon,Standalone,POS Operational,2022-07-01,MGP2AQI,NCR North,Ben Antonio Lacsamana
+882,Home Along,Home Along Malanday,Standalone,POS Operational,2022-07-11,MNBW4RZ,NCR North,Ben Antonio Lacsamana
+883,Home Along,Home Along Malanday,,,2022-07-11,MURFAIV,NCR North,Ben Antonio Lacsamana
